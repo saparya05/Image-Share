@@ -10,7 +10,7 @@ staticfiles/
 media/
 
 # Ignore secret settings file (if any)
-EmpManagementSys/settings_secret.py
+ImageShareProj/settings_secret.py
 
 # Ignore IDE or editor-specific files
 .vscode/
