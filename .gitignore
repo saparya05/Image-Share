@@ -1,0 +1,18 @@
+# Ignore virtual environment files (e.g., venv)
+venv/
+# Ignore database files
+db.sqlite3
+
+# Ignore static files directory (if managed by Django)
+staticfiles/
+
+# Ignore media files directory (if managed by Django)
+media/
+
+# Ignore secret settings file (if any)
+EmpManagementSys/settings_secret.py
+
+# Ignore IDE or editor-specific files
+.vscode/
+.idea/
+*.pyc
